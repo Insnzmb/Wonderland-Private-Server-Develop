@@ -8,28 +8,37 @@ using System.Threading.Tasks;
 
 namespace Wonderland_Private_Server.Tutorials
 {
-    public class TempDataBaseDll : RCLibrary.Core.DBConnectInfo
+    public class TempDataBaseDll : DBConnectInfo
     {
         public IPAddress ServerIP => throw new NotImplementedException();
 
         public DataBaseTypes Server_Type => throw new NotImplementedException();
 
-        string User { get; }
+        private string User { get; }
 
         string DBConnectInfo.User => throw new NotImplementedException();
 
-        string Pass { get; }
+        private string Pass { get; }
 
         string DBConnectInfo.Pass => throw new NotImplementedException();
 
-        string DataBase { get; }
+        private string DataBase { get; }
 
         string DBConnectInfo.DataBase => throw new NotImplementedException();
 
-        int Port { get; }
+        private int Port { get; }
+
+        public TempDataBaseDll(int port)
+        {
+            User = "";
+            Pass = "";
+            DataBase = "";
+            Port = 3000;
+        }
+
         /// <summary>
         /// IP Address of the Server
-       int DBConnectInfo.Port => throw new NotImplementedException();
+        int DBConnectInfo.Port => throw new NotImplementedException();
 
         public bool VerifyPassword(string check, string with, int useverify = 0)
         {
