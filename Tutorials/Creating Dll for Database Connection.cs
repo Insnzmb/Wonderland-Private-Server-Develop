@@ -35,23 +35,5 @@ namespace Wonderland_Private_Server.Tutorials
         {
             throw new NotImplementedException();
         }
-        /// </summary>
-        //    System.Net.IPAddress ServerIP { get; }
-        //    /// <summary>
-        //    /// Type of Server we are connecting to
-        //    /// </summary>
-        //    RCLibrary.Core.DataBaseTypes Server_Type { get; }
-        //    /// <summary>
-        //    /// Handles Verification
-        //    /// 
-        //    /// supports mutliple types using the useverify to designate which one to use
-        //    /// </summary>
-        //    /// <returns>"true if strings match</returns>
-        //    bool VerifyPassword(string check, string with, int useverify = 0)
-        //    {
-        //        //enter code to verify Passwords here
-        //        return check == with;
-        //    }
-        //}
     }
 }
