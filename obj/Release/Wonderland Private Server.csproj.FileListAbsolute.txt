@@ -1,0 +1,51 @@
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Wonderland Private Server.csproj.AssemblyReference.cache
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Wonderland Private Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Wonderland_Private_Server.Properties.Resources.resources
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Wonderland_Private_Server.Form1.resources
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Wonderland_Private_Server.UI.ShutDown_Dialog.resources
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Gui.TaskItem.resources
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Gui.Update.GitUpdateItem.resources
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Wonderland Private Server.csproj.GenerateResource.cache
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Wonderland Private Server.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\x86\SQLite.Interop.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\Data\ServerDataBase.db.temp
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\Wonderland Private Server.exe.config
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\Wonderland Private Server.exe
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\Wonderland Private Server.pdb
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\Google.Protobuf.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\GupdtSrv.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\log4net.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\MySql.Data.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\Octokit.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\PhoenixData.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\RCLibrary.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\System.Buffers.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\System.Data.SQLite.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\System.Memory.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\System.Numerics.Vectors.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\wlo.pserver.core.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\ZstdNet.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\wlo.pserver.core.pdb
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\wlo.pserver.core.dll.config
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\Google.Protobuf.pdb
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\Google.Protobuf.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\log4net.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\MySql.Data.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\System.Buffers.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\System.Memory.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\System.Numerics.Vectors.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Wonderland Private Server.csproj.CopyComplete
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Wonderland Private Server.exe
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\obj\Release\Wonderland Private Server.pdb

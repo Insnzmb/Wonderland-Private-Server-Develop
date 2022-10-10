@@ -1,0 +1,59 @@
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\wlo.pserver.core.dll
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\wlo.pserver.core.pdb
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\PhoenixData.dll
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\RCLibrary.dll
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\obj\Debug\wlo.pserver.core.dll
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\obj\Debug\wlo.pserver.core.pdb
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\wlo.pserver.core.dll.config
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\log4net.dll
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\MySql.Data.dll
+C:\Users\Rommel JR\Documents\Projects\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\log4net.xml
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\wlo.pserver.core.dll.config
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\wlo.pserver.core.dll
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\wlo.pserver.core.pdb
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\log4net.dll
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\MySql.Data.dll
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\PhoenixData.dll
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\RCLibrary.dll
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\System.Data.SQLite.dll
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\bin\Debug\log4net.xml
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\obj\Debug\wlo.pserver.core.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\obj\Debug\wlo.pserver.core.dll
+C:\Users\Owner\Documents\GitHubVisualStudio\Wonderland-Private-Server\wlo.pserver.core\obj\Debug\wlo.pserver.core.pdb
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\wlo.pserver.core.dll.config
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\wlo.pserver.core.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\wlo.pserver.core.pdb
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\Google.Protobuf.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\log4net.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\MySql.Data.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\PhoenixData.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\RCLibrary.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\System.Buffers.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\System.Memory.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\ZstdNet.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\Google.Protobuf.pdb
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\Google.Protobuf.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\log4net.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\MySql.Data.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\System.Buffers.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\System.Memory.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\obj\Debug\wlo.pserver.core.csproj.AssemblyReference.cache
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\obj\Debug\wlo.pserver.core.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\obj\Debug\wlo.pserver.core.csproj.CopyComplete
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\obj\Debug\wlo.pserver.core.dll
+C:\Users\RYZEN\Desktop\Wonderland-Private-Server-Develop\wlo.pserver.core\obj\Debug\wlo.pserver.core.pdb
